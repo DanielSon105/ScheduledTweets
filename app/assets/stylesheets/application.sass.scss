@@ -1,0 +1,21 @@
+// Entry point for your Sass build
+// Import all of Bootstrap's CSS
+@import "bootstrap/scss/bootstrap";
+@import './toastr/toastr';
+
+// AVATAR */
+.avatar_small {
+    width: 28px;
+}
+
+.avatar_medium {
+    width: 48px;
+}
+
+.avatar_large {
+    width: 68px;
+}
+
+.avatar_full {
+    width: 100%;
+} 
